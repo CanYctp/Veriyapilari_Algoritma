@@ -9,7 +9,7 @@
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-# 1. Sort Phases
+## 1. Sort Phases
 
 [22, 27, 16, 2, 18, 6]
 
@@ -19,22 +19,22 @@
 - [2, 6, 16, 18, 22, 27] 4 (n-1)
 - [2, 6, 16, 18, 22, 27] 5 (n)
 
-# 2. Big 0 Notation
+## 2. Big 0 Notation
 
 - worst case  O(n^2)
 - (0+1+2+3+4…..+n-1 = [n*(n-1)]/2 : n^2)
 
-# 3. Time Complexity
+## 3. Time Complexity
 
 - best case: O(n)
 - average case: O(n^2)
 - worst case: O(n^2)
 
-# 4. Which Case Does the Number 18 Enter After the Array is Sorted?
+## 4. Which Case Does the Number 18 Enter After the Array is Sorted?
 
 - average case: O(n^2)
 
-# 5. [7,3,5,8,2,9,4,15,6] Insertion Sort First 4 Step
+## 5. [7,3,5,8,2,9,4,15,6] Insertion Sort First 4 Step
 
 - [2,3,5,8,7,9,4,15,6] 1
 - [2,3,5,8,7,9,4,15,6] 2
