@@ -22,10 +22,21 @@
 # 2. Big 0 Notation
 
 - worst case  O(n^2)
-- 0+1+2+3+4…..+n-1 = [n*(n-1)]/2 : n^2
-- 
-## 3. Time Complexity
+- (0+1+2+3+4…..+n-1 = [n*(n-1)]/2 : n^2)
+
+# 3. Time Complexity
 
 - best case: O(n)
 - average case: O(n^2)
 - worst case: O(n^2)
+
+# 4. Which Case Does the Number 18 Enter After the Array is Sorted?
+
+- average case: O(n^2)
+
+# 5. [7,3,5,8,2,9,4,15,6] Insertion Sort First 4 Step
+
+- [2,3,5,8,7,9,4,15,6] 1
+- [2,3,5,8,7,9,4,15,6] 2
+- [2,3,4,8,7,9,5,15,6] 3
+- [2,3,4,5,7,9,8,15,6] 4
