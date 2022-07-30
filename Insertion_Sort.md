@@ -1,4 +1,5 @@
-# Proje-1
+# Veriyapilari_Algoritma
+
 Insertion Sort Work
 
 [22,27,16,2,18,6] -> Insertion Sort
