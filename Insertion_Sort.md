@@ -2,12 +2,11 @@
 
 [22,27,16,2,18,6] -> Insertion Sort
 
-1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-2. Big-O gösterimini yazınız.
-3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
-4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-
-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız. (Write the stages of the above given sequence according to the sort type.)
+2. Big-O gösterimini yazınız. (Write the Big-O notation.)
+3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması. (Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series.)
+4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız. (What case does the number 18 fall into after the array is sorted? Write.)
+5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız. (Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.)
 
 ## 1. Sort Phases
 
@@ -32,7 +31,7 @@
 
 ## 4. Which Case Does the Number 18 Enter After the Array is Sorted?
 
-- average case: O(n^2)
+- Average Case
 
 ## 5. [7,3,5,8,2,9,4,15,6] Insertion Sort First 4 Step
 
